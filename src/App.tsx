@@ -3,11 +3,11 @@ import LoginPage from "./pages/LoginPage";
 
 function App() {
   return (
-    <BrowserRouter>
+
       <Routes>
-        <Route path='/' element={<LoginPage />} />
+        <Route path='/bytehub' element={<LoginPage />} />
       </Routes>
-    </BrowserRouter>
+
   );
 }
 
