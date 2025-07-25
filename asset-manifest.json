@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bytehub/static/css/main.2d077bb9.css",
+    "main.js": "/bytehub/static/js/main.87eb1975.js",
+    "static/js/453.0cfa520f.chunk.js": "/bytehub/static/js/453.0cfa520f.chunk.js",
+    "static/media/background.png": "/bytehub/static/media/background.558a32e4599ea3b9ee42.png",
+    "index.html": "/bytehub/index.html",
+    "main.2d077bb9.css.map": "/bytehub/static/css/main.2d077bb9.css.map",
+    "main.87eb1975.js.map": "/bytehub/static/js/main.87eb1975.js.map",
+    "453.0cfa520f.chunk.js.map": "/bytehub/static/js/453.0cfa520f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d077bb9.css",
+    "static/js/main.87eb1975.js"
+  ]
+}
