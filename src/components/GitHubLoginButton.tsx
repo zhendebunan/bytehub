@@ -37,7 +37,7 @@ useEffect(() => {
         console.error("请求后端 /auth/github 出错:", err);
       });
   }
-}, []);
+}, [setUser]);
 
 
   return (
